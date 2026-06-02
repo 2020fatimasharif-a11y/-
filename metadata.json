@@ -1,0 +1,8 @@
+{
+  "name": "Children Interactive Storybook",
+  "description": "أول كتاب رقمي تفاعلي وقصص تعليمية للأطفال مع صانع قصص ذكي ورسوم متحركة ممتعة ومؤثرات صوتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
